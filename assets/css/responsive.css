@@ -1,0 +1,141 @@
+/* Medium Layout: 1280px. */
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+	.latest-notice li span {
+    padding: 9px 20px;
+}
+
+
+
+}
+
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+.footer-bar {
+    margin-bottom: 30px;
+}
+.logo {
+    text-align: center;
+}
+
+.mainmenu li a {
+    padding: 10px 14px;
+}
+
+.mainmenu i.fa-search {
+    margin-right: 6px;
+}
+
+.hero-heading h2 {
+    text-align: center;
+    padding: 24px 0;
+}
+
+a.btn.main-tab {}
+
+.hero-heading .main-tab {
+    text-align:  center;
+    display:  inline-block;
+    margin-left: 293px;
+}
+
+.single-testimuniam-item {
+    margin-bottom: 30px;
+}
+
+.single-course-item .main-tab {
+    margin-bottom: 40px;
+}
+
+
+
+
+
+}
+
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) {
+.logo {
+    text-align: center;
+}
+
+.mainmenu li a {
+    padding: 0px 5px;
+}
+
+.mainmenu i.fa-search {
+    padding-right: 12px;
+}
+
+.mainmenu li {}
+
+.hero-heading h2 {
+    padding: 30px 0px;
+}
+
+a.btn.main-tab {
+    margin: 0;
+    margin-left: 86px;
+}
+
+.single-course-item .main-tab {
+    margin-bottom:  5px;
+    display:  inline-block;
+}
+
+.single-icon-box {
+}
+
+.col-lg-4:nth-child(4) .single-icon-box {
+    margin-bottom: 30px;
+    width: 150px;
+    float:  right;
+    margin-top: -170px;
+}
+
+.col-lg-4:nth-child(5) .single-icon-box {
+    margin-bottom: 30px;
+    width: 150px;
+}
+
+.col-lg-4:nth-child(1) .single-icon-box {
+    margin-top: 25px;
+    width: 150px;
+}
+
+.col-lg-4:nth-child(2) .single-icon-box {
+    width: 150px;
+    float: right;
+    margin-top: -170px;
+}
+
+.col-lg-4:nth-child(3) .single-icon-box {
+    width: 150px;
+}
+
+.col-lg-4:nth-child(6) .single-icon-box {
+    width:  150px;
+    float:  right;
+    margin-top: -170px;
+}
+
+.single-course-item .main-tab {
+}
+
+a.btn.short-btn {text-align:  center;margin-left: 62px;}
+
+.footer-bar {
+    margin-bottom: 30px;
+}
+
+.footer-bar h2 {
+	padding-bottom: 10px;
+}
+
+
+
+}
+
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+} 
